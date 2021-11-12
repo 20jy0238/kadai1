@@ -7,6 +7,7 @@ import java.awt.Color;
  * EZ comes with two basic shapes, circles and rectangles.
  */
 
+
 public class CreateBasicShapes {
 
   public static void main(String[] args) {
